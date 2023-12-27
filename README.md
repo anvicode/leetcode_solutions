@@ -4,6 +4,7 @@
 | --- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------- |
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                 | [Python](./Python/1-two-sum.py)                           | Easy       |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                             | [Python](./Python/20-valid-parentheses.py)                | Easy       |
+| 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                   | [Python](./Python/21-merge-two-sorted-lists.py)           | Easy       |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Python/121-best-time-to-buy-and-sell-stock.py) | Easy       |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                               | [Python](./Python/125-valid-palindrome.py)                | Easy       |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                           | [Python](./Python/217-contains-duplicate.py)              | Easy       |
