@@ -9,3 +9,4 @@
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                               | [Python](./Python/125-valid-palindrome.py)                | Easy       |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                           | [Python](./Python/217-contains-duplicate.py)              | Easy       |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                     | [Python](./Python/242-valid-anagram.py)                   | Easy       |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/)                         | [Python](./Python/704-binary-search.py)                   | Easy       |
