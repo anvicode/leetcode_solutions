@@ -23,3 +23,4 @@
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                                     | [Python](./Python/1929-concatenation-of-array.py)                           | Easy       |
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)                                   | [Python](./Python/2125-number-of-laser-beams-in-a-bank.py.py)               | Medium     |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Python](./Python/2610-convert-an-array-into-a-2d-array-with-conditions.py) | Medium     |
+| 2870 | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | [Python](./Python/2870-minimum-number-of-operations-to-make-array-empty.py) | Medium     |
