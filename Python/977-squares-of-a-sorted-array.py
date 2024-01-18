@@ -4,3 +4,6 @@ class Solution:
             nums[i] = nums[i] * nums[i]
         nums.sort()
         return nums
+
+    def sortedSquares2(self, nums: List[int]) -> List[int]:
+        return sorted(map(lambda x: x * x, nums))
